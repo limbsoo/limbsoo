@@ -1,11 +1,10 @@
-
 이름: 권혁수
 
 생년월일 : 1995-09-09
 
 이메일 : rnjs909@naver.com
 
-[Blog](https://limbsoo.github.io/)
+블로그 : [https://limbsoo.github.io/](https://limbsoo.github.io/)
 
 #  Skills
 ___
@@ -26,30 +25,25 @@ Tools
 #  Do
 ___
 
-2021.07 - 21.10 
+2021.07 - 21.10 [Blog](https://limbsoo.github.io/tags/opengl/), [Github](https://github.com/limbsoo/openGL)
 - openGL glut 라이브러리를 활용, 스캔 라인을 통한 렌더링 효과를 구현하였습니다.
 	(Texture mapping, Shadow mapping, Environment Mapping 등)
 	
-	[Blog](https://limbsoo.github.io/tags/opengl/), [Github](https://github.com/limbsoo/openGL)
+	
  
-2021.10 - 21.12  
+2021.10 - 21.12  	[Blog](https://limbsoo.github.io/tags/tutorial/),  [Github](https://github.com/limbsoo/DirectX11)
 - DirectX11 환경에서 DX11 rendering pipeline을 통한 렌더링 효과를 구현하였습니다.
 	(Lighting, Shadow mapping, Environment Mapping 등)
 	
-	[Blog](https://limbsoo.github.io/tags/tutorial/),  [Github](https://github.com/limbsoo/DirectX11)
+
 
 2022.01 - 2023.02  [Blog](https://limbsoo.github.io/tags/motionblur/),  [Github](https://github.com/limbsoo/DirectX11)
+
+2022.01 - 2022.02 	[Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-Accumulation-method/),  [Github](https://github.com/limbsoo/DirectX11/tree/master/accumulation_motionblur)
 - accumulation 방식을 통한 모션 블러 효과 구현  
 	모션 블러 생성을 위해 한 프레임에서 발생한 물체의 움직임을 일정 횟수만큼 나누고, 이를 하나의 이미지로 합쳐 모션 블러 효과를 생성하는 방법을 구현하였습니다.
 	
-	[Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-Accumulation-method/),  [Github](https://github.com/limbsoo/DirectX11/tree/master/accumulation_motionblur)
-
-	한 프레임에서 발생한 물체의 움직임을,
-<p align="center"><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/544d21f9-6471-47f8-9c2e-15a5e6e6a990" width="300px"></p>
-
-
-이미지를 겹쳐, 픽셀 색상 결정
-<p align="center"><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/e33c9c9b-cfe8-4736-8609-81277e088aef" width="700px"></p>
+![image](https://github.com/limbsoo/limbsoo.github.io/assets/96706760/2779e5c6-68e9-4653-8f07-138d8c489447)
 
 
 
@@ -57,18 +51,8 @@ ___
 	accumulation 방식을 통한 모션 블러 효과 생성 시, 효과 생성에 필요한 이미지의 개수가 늘어남에 따라 급격한 성능 저하를 보이므로, 모션 벡터를 통해 이동하는 물체의 다음 픽셀을 예측, 샘플하여 모션 블러 효과를 구현하였습니다.
 	
 	[Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-motion-vector-sharing/),  [Github](https://github.com/limbsoo/DirectX11/tree/master/sharing_motionvector_motionblur)
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/0685941d-3ecc-4347-b7a2-bd0f5d85d5ea" alt width=600>
-<em>물체의 이동 정보를 가진 모션 벡터</em>
-</center>
 
-
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/756624ed-7559-4c5b-ad85-c580d955d539" alt width="100%">
-<em></em>
-</center>
-
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/0bfc1145-1b84-4687-a778-0e645785c3e6" alt width="100%">
-<em>픽셀 위치의 모션 벡터를 통해 샘플 위치 결정</em>
-</center>
+![image](https://github.com/limbsoo/limbsoo.github.io/assets/96706760/a4f9d8bf-b388-4573-8c8b-f881ba85614d)
 
 
 
@@ -77,15 +61,9 @@ ___
 	
 	[Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-using-depth-peeling-layer/),  [Github](https://github.com/limbsoo/DirectX11/tree/master/depthpeeling_motionblur)
 
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/8a1325dc-22fa-4a32-8fa9-72da38d97182" alt width=700>
-<em>기존 motion vector sharing 방식에서 일부 물체의 모션 블러 효과가 사라지는 현상이 발생</em>
-</center>
 
+![image](https://github.com/limbsoo/limbsoo.github.io/assets/96706760/c5fdec6d-9feb-4836-9ee1-56589aedac33)
 
-
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/ac53a233-08b0-485f-b327-d9b06a6cd140" alt width=700>
-<em>depth별 layer 이미지를 통해 가려진 배경 색상을 샘플</em>
-</center>
 
 
 - stencil routing을 통한 depth 별 layer motion vector sharing 모션 블러 효과 구현
@@ -106,25 +84,5 @@ ___
 	
 	[Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity)
 
-
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/8362c2ac-eef4-44a9-ac38-bb5411e04fda" alt width=500>
-<em></em>
-</center>
-
-
-
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/a2940bb8-8e11-4502-a736-a78f8adc4d73" alt width=600>
-<em>블록 위치에 따라 발생할 수 있는 매치 발생 경우의 수 측정</em>
-</center>
-
-
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/37d24283-c701-4db5-8845-3d253a539b90" alt width=600>
-<em>특수 블록 배치 시, 경우의 수 감소 정도에 따른 난이도 측정</em>
-</center>
-
-
-
-<center><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/2d0a3c4f-c792-431e-b801-0ad17a92de4c" alt width=500>
-<em></em>
-</center>
+![image](https://github.com/limbsoo/limbsoo.github.io/assets/96706760/52a442cf-e268-40d1-85e6-5fc2202caf3f)
 
