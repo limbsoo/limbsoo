@@ -151,7 +151,7 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 
 <br>
 
-[Blog](https://limbsoo.github.io/tags/opengl/), [Github](https://github.com/limbsoo/openGL)
+Link : [Blog](https://limbsoo.github.io/tags/opengl/), [Github](https://github.com/limbsoo/openGL)
 
 <br>
 
