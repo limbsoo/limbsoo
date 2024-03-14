@@ -101,7 +101,9 @@ Input으로 목표(파괴할 블록의 종류와 개수)와 원하는 난이도(
 
 
 <br>
+
 [Blog](https://limbsoo.github.io/tags/motionblur/),  [Github](https://github.com/limbsoo/DirectX11)
+
 <br>
 
 
@@ -122,7 +124,9 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 </p>
 
 <br>
+
 [Blog](https://limbsoo.github.io/tags/tutorial/),  [Github](https://github.com/limbsoo/DirectX11)
+
 <br>
 
 
@@ -146,6 +150,8 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 </p>
 
 <br>
+
 [Blog](https://limbsoo.github.io/tags/opengl/), [Github](https://github.com/limbsoo/openGL)
+
 <br>
 
