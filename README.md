@@ -44,9 +44,9 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 
 <br>
 
+Input으로 목표(파괴할 블록의 종류와 개수)와 원하는 난이도(스왑 횟수)를 지정 시, 특수 블록이 배치된 원하는 난이도의 맵 생성
 <p align="center">
   <img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/d80efd7c-68e0-4390-84e5-548316bd4712" align="center" width="70%">
-  <figcaption align="center">Input으로 목표(파괴할 블록의 종류와 개수)와 원하는 난이도(스왑 횟수)를 지정 시, 특수 블록이 배치된 원하는 난이도의 맵 생성</figcaption>
 </p>
 
 
@@ -125,26 +125,3 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 
 <br>
 
-
-
-
-
-
-
-<p align="center">
-  <img src="https://images.velog.io/images/roeniss/post/c208ff41-6002-4e24-8d10-9ce5dd2e0ac0/1.jpg"  >
-  팩토리오 재밌다
-</p> 
-
-
-<p align="center"> 
-  <img src="https://images.velog.io/images/roeniss/post/c208ff41-6002-4e24-8d10-9ce5dd2e0ac0/1.jpg"  width=700/>
-  캡션 메시지
-</p>
-
-
-
-<figure align="center">
-<img src="https://avatars.githubusercontent.com/u/71811780?v=4" alt="Gparkkii's Zepeto"></img>
-<figcaption>Gparkkii's Zepeto</figcaption>
-</figure>
