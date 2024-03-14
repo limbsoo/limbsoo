@@ -132,7 +132,12 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 
 
 <p align="center">
-  <img src="https://images.velog.io/images/roeniss/post/c208ff41-6002-4e24-8d10-9ce5dd2e0ac0/1.jpg" alt="factorio thumbnail"/>
+  <img src="https://images.velog.io/images/roeniss/post/c208ff41-6002-4e24-8d10-9ce5dd2e0ac0/1.jpg"  >
   팩토리오 재밌다
 </p> 
 
+
+<p align="center"> 
+  <img src="https://images.velog.io/images/roeniss/post/c208ff41-6002-4e24-8d10-9ce5dd2e0ac0/1.jpg"  width="80%"/>
+  캡션 메시지
+</p>
