@@ -30,6 +30,8 @@ ___
 
 ## 블록 배치 기반 난이도 측정에 따른 Match-3 게임 맵 자동 생성 (2023.03 - 2023.12)
 
+Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별하는 것은 힘들다. 따라서 블록 배치 정도에 따라 난이도를 판별, 원하는 난이도의 맵을 유전 알고리즘을 통한 세대를 반복하여 자동으로 생성하는 알고리즘을 구현했다.
+
 <br>
 
 - 개발 도구 : Unity(2021.3.27f1), Vusual studio 2022
@@ -38,11 +40,9 @@ ___
 
 <br>
 
-Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별하는 것은 힘들다. 따라서 블록 배치 정도에 따라 난이도를 판별, 원하는 난이도의 맵을 유전 알고리즘을 통한 세대를 반복하여 자동으로 생성하는 알고리즘을 구현했다.
 
-<br>
 
-기능
+### 기능
 - 실제 플레이 불가능한 맵 발생 방지
 - FI-2Pop 알고리즘을 통한 적합도의 분산 감소 및 최적해 탐색 세대 감소
 - 목표 우선 제거 자동 플레이
@@ -55,6 +55,8 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 
 ## 효율적인 모션 블러 효과 구현 (2022.01 - 2023.02)
 
+기존 accumulation 방식은 실제로 모션 블러가 발생하는 방식을 따라 구현한 모션 블러 생성 알고리즘이나, 높은 품질의 모션 블러를 구현할수록 필요 이미지의 개수가 급격히 증가하여 성능에 영향을 준다. 따라서 이를 효율적으로 구현하는 알고리즘을 고안하였다.
+
 <br>
 
 - 개발 도구 : DirectX 11, Vusual studio 2019
@@ -63,11 +65,9 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 <br>
 
 
-기존 accumulation 방식은 실제로 모션 블러가 발생하는 방식을 따라 구현한 모션 블러 생성 알고리즘이나, 높은 품질의 모션 블러를 구현할수록 필요 이미지의 개수가 급격히 증가하여 성능에 영향을 준다. 따라서 이를 효율적으로 구현하는 알고리즘을 고안하였다.
 
-<br>
 
-구현
+### 구현
 1. accumulation 방식을 통한 모션 블러 효과 구현 (2022.01 - 2022.02)
 2. 모션 벡터 공유를 통한 모션 블러 효과 구현 (2022.02 - 2022.03)
 3. 다층 모션 벡터 활용 모션 블러 효과 구현 (2022.04 - 2022.08)
@@ -76,7 +76,7 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 <br>
 
 
-기능
+### 기능
 - HLSL의 Discard()를 활용한 depth peeling layer image rendering
 - stencil routing을 활용, stencil buffer를 통해 depth peeling layer image rendering
 - Pack, Unpack을 통해 motion blur에 활용하는 rendering image 수 감소
@@ -88,6 +88,9 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 
 ## DirectX 11 환경 렌더링 (2021.10 - 2021.12)
 
+DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구현하고 Lighting, Shadow mapping, Environment Mapping 등 다양한 기법들을 구현하였다.
+
+
 <br>
 
 - 개발 도구 : DirectX 11, Vusual studio 2019
@@ -96,12 +99,12 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 <br>
 
 
-DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구현하고 Lighting, Shadow mapping, Environment Mapping 등 다양한 기법들을 구현하였다.
 
-
-<br>
 
 ## OpenGL 환경 렌더링 (2021.07 - 2021.10)
+
+스캔라인 기법을 통해 Texture mapping, Shadow mapping, Environment Mapping 등 다양한 기법들을 수식 계산을 통해 구현하고, glut 라이브러리를 활용 렌더링 이미지를 구현하였다.
+
 
 <br>
 
@@ -110,10 +113,6 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 
 <br>
 
-스캔라인 기법을 통해 Texture mapping, Shadow mapping, Environment Mapping 등 다양한 기법들을 수식 계산을 통해 구현하고, glut 라이브러리를 활용 렌더링 이미지를 구현하였다.
-
-
-<br>
 
 
 
