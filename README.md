@@ -7,7 +7,7 @@ ___
 
 이메일 : rnjs909@naver.com
 
-블로그 : [https://limbsoo.github.io/](https://limbsoo.github.io/)
+블로그 : [https://limbsoo.github.io](https://limbsoo.github.io/)
 
 #  Skills
 ___
@@ -92,14 +92,14 @@ ___
 	[Blog](https://limbsoo.github.io/posts/DX11-Motion-Blur-stencil-routing/),  [Github](https://github.com/limbsoo/DirectX11/tree/master/depthpeeling_motionblur)
 
 
-- ### 2023.03 - 2023.12 
+## 2023.03 - 2023.12 
 
-	**unity 환경에서 유전 알고리즘을 통한 Match-3 game map 자동 생성**
-
-
-	match-3 게임의 모든 맵을 사람이 직접 만들고, 난이도를 테스트하는 것은 어려우므로,맵의 난이도를 블록 배치 정도에 따라 나누고, 유전 알고리즘을 사용하여 원하는 난이도의 맵을 자동으로 생성하는 알고리즘을 구현하였습니다.
+**unity 환경에서 유전 알고리즘을 통한 Match-3 game map 자동 생성**
 
 
-	[Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity), [Paper](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=d8e251ece4ddc0ecffe0bdc3ef48d419&keyword=%EB%B8%94%EB%A1%9D%20%EB%B0%B0%EC%B9%98)
+match-3 게임의 모든 맵을 사람이 직접 만들고, 난이도를 테스트하는 것은 어려우므로,맵의 난이도를 블록 배치 정도에 따라 나누고, 유전 알고리즘을 사용하여 원하는 난이도의 맵을 자동으로 생성하는 알고리즘을 구현하였습니다.
+
+
+[Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity), [Paper](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=d8e251ece4ddc0ecffe0bdc3ef48d419&keyword=%EB%B8%94%EB%A1%9D%20%EB%B0%B0%EC%B9%98)
 
 
