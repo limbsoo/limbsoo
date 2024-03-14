@@ -62,7 +62,7 @@ Input으로 목표(파괴할 블록의 종류와 개수)와 원하는 난이도(
 - 회귀 분석을 통한 특수 블록 별 스왑 횟수 증가량 측정
 
 <br>
-Link  [Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity), [Paper](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=d8e251ece4ddc0ecffe0bdc3ef48d419&keyword=%EB%B8%94%EB%A1%9D%20%EB%B0%B0%EC%B9%98)
+[Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity), [Paper](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=d8e251ece4ddc0ecffe0bdc3ef48d419&keyword=%EB%B8%94%EB%A1%9D%20%EB%B0%B0%EC%B9%98)
 <br>
 
 
@@ -101,7 +101,7 @@ Link  [Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://git
 
 
 <br>
-Link  [Blog](https://limbsoo.github.io/tags/motionblur/),  [Github](https://github.com/limbsoo/DirectX11)
+[Blog](https://limbsoo.github.io/tags/motionblur/),  [Github](https://github.com/limbsoo/DirectX11)
 <br>
 
 
@@ -122,7 +122,7 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 </p>
 
 <br>
-Link  [Blog](https://limbsoo.github.io/tags/tutorial/),  [Github](https://github.com/limbsoo/DirectX11)
+[Blog](https://limbsoo.github.io/tags/tutorial/),  [Github](https://github.com/limbsoo/DirectX11)
 <br>
 
 
@@ -146,6 +146,6 @@ Link  [Blog](https://limbsoo.github.io/tags/tutorial/),  [Github](https://github
 </p>
 
 <br>
-Link  [Blog](https://limbsoo.github.io/tags/opengl/), [Github](https://github.com/limbsoo/openGL)
+[Blog](https://limbsoo.github.io/tags/opengl/), [Github](https://github.com/limbsoo/openGL)
 <br>
 
