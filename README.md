@@ -137,7 +137,7 @@ Link : [Blog](https://limbsoo.github.io/tags/tutorial/),  [Github](https://githu
 
 ## OpenGL 환경 렌더링 (2021.07 - 2021.10)
 
-스캔라인 기법을 통해 Texture mapping, Shadow mapping, Environment Mapping 등 다양한 기법들을 수식으로 적용, glut 라이브러리를 활용 렌더링 이미지를 출력하였다.
+Texture mapping, Shadow mapping, Environment Mapping 등 다양한 기법들을 수식으로 적용하고 스캔라인 기법을 통해 pixel color를 지정, glut 라이브러리를 통해 렌더링 이미지를 출력하였다.
 
 
 <br>
