@@ -58,7 +58,7 @@ Input으로 목표(파괴할 블록의 종류와 개수)와 원하는 난이도(
 - 실제 플레이 불가능한 맵 발생 방지
 - FI-2Pop 알고리즘을 통한 적합도의 분산 감소 및 최적해 탐색 세대 감소
 - 목표 우선 제거 자동 플레이
-- 오브젝트 풀을 통한 자동 플레이 시간 감소
+- 오브젝트 풀을 통한 자동 플레이 소요 시간 감소
 - 회귀 분석을 통한 특수 블록 별 스왑 횟수 증가량 측정
 
 <br>
@@ -99,7 +99,7 @@ Link : [Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://gi
 - stencil routing을 활용, stencil buffer를 통해 depth peeling layer image rendering
 - Pack, Unpack을 통해 motion blur에 활용하는 rendering image 수 감소
 - intersect 검사 알고리즘을 통해 현재 픽셀을 지나는 motion vector 탐색
-- 픽셀 별 sampling 횟수에 따른 신뢰 정도를 측정, 이를 통한 디노이징
+- 픽셀 별 sampling 성공 횟수에 따른 신뢰 정도를 측정, 이를 통한 디노이징
 
 
 <br>
