@@ -1,5 +1,6 @@
 # Profile
 ___
+<br>
 
 이름: 권혁수
 
@@ -11,6 +12,9 @@ ___
 
 #  Skills
 ___
+<br>
+
+
 **Langauages**
 - C++ 
 - C# 
@@ -112,7 +116,6 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 - 개발 언어 : C++
 
 <br>
-
 
 
 
