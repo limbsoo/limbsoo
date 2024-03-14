@@ -13,22 +13,24 @@
 
 #  Skills
 
-## Langauages
+### Langauages
 - C++ 
 - C# 
 - HLSL
 
-## Frameworks
+### Frameworks
 - Directx11
 - Unity
 - OpenGL
 
-## Tools
+### Tools
 - Visual Studio
 
 <br>
 
 #  Do
+
+<br>
 
 ## 블록 배치 기반 난이도 측정에 따른 Match-3 게임 맵 자동 생성 (2023.03 - 2023.12)
 
