@@ -1,6 +1,5 @@
 # Profile
 ___
-<br>
 
 이름: 권혁수
 
@@ -10,11 +9,10 @@ ___
 
 블로그 : [https://limbsoo.github.io](https://limbsoo.github.io/)
 
-#  Skills
-___
 <br>
 
-
+#  Skills
+___
 **Langauages**
 - C++ 
 - C# 
@@ -28,9 +26,10 @@ ___
 **Tools**
 - Visual Studio
 
+<br>
+
 #  Do
 ___
-<br>
 
 ## 블록 배치 기반 난이도 측정에 따른 Match-3 게임 맵 자동 생성 (2023.03 - 2023.12)
 
@@ -116,6 +115,8 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 - 개발 언어 : C++
 
 <br>
+
+
 
 
 
