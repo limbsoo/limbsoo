@@ -122,7 +122,7 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 
 ## OpenGL 환경 렌더링 (2021.07 - 2021.10)
 
-스캔라인 기법을 통해 Texture mapping, Shadow mapping, Environment Mapping 등 다양한 기법들을 수식 계산을 통해 구현하고, glut 라이브러리를 활용 렌더링 이미지를 구현하였다.
+스캔라인 기법을 통해 Texture mapping, Shadow mapping, Environment Mapping 등 다양한 기법들을 수식으로 적용, glut 라이브러리를 활용 렌더링 이미지를 출력하였다.
 
 
 <br>
@@ -137,12 +137,3 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 </p>
 
 <br>
-
-
-<figure class="half">
-  <a href="link"><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/92b52dbe-db87-40bc-95b2-2c2c6382bc35"></a>
-  <a href="link"><img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/92b52dbe-db87-40bc-95b2-2c2c6382bc35"></a>
-  <figcaption>2개이미지.</figcaption>
-
-</figure>
-
