@@ -1,3 +1,4 @@
+
 # Profile
 ___
 
@@ -13,17 +14,17 @@ ___
 
 #  Skills
 ___
-**Langauages**
+## Langauages
 - C++ 
 - C# 
 - HLSL
 
-**Frameworks**
+## Frameworks
 - Directx11
 - Unity
 - OpenGL
 
-**Tools**
+## Tools
 - Visual Studio
 
 <br>
@@ -42,6 +43,10 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 - 사용 에셋 : MK - Forest Match 3 Game Asset
 
 <br>
+
+<p align="center">
+  <img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/d80efd7c-68e0-4390-84e5-548316bd4712" align="center" width="100%">
+</p>
 
 
 
@@ -70,7 +75,7 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 
 
 
-### 구현
+### 발전 과정
 1. accumulation 방식을 통한 모션 블러 효과 구현 (2022.01 - 2022.02)
 2. 모션 벡터 공유를 통한 모션 블러 효과 구현 (2022.02 - 2022.03)
 3. 다층 모션 벡터 활용 모션 블러 효과 구현 (2022.04 - 2022.08)
@@ -115,8 +120,5 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 - 개발 언어 : C++
 
 <br>
-
-
-
 
 
