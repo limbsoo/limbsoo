@@ -45,7 +45,7 @@ Match-3 게임의 모든 맵을 사람이 직접 만들고 난이도를 판별�
 <br>
 
 <p align="center">
-  <img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/d80efd7c-68e0-4390-84e5-548316bd4712" align="center" width="100%">
+  <img src="https://github.com/limbsoo/limbsoo.github.io/assets/96706760/d80efd7c-68e0-4390-84e5-548316bd4712" align="center" width="70%">
 </p>
 
 
@@ -120,5 +120,7 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 - 개발 언어 : C++
 
 <br>
+
+
 
 
