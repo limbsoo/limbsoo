@@ -141,3 +141,10 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
   <img src="https://images.velog.io/images/roeniss/post/c208ff41-6002-4e24-8d10-9ce5dd2e0ac0/1.jpg"  width=700/>
   캡션 메시지
 </p>
+
+
+
+<figure align="center">
+<img src="https://avatars.githubusercontent.com/u/71811780?v=4" alt="Gparkkii's Zepeto"></img>
+<figcaption>Gparkkii's Zepeto</figcaption>
+</figure>
