@@ -63,8 +63,14 @@ Input으로 목표(파괴할 블록의 종류와 개수)와 원하는 난이도(
 
 <br>
 
-Link : [Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity), [Paper](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=d8e251ece4ddc0ecffe0bdc3ef48d419&keyword=%EB%B8%94%EB%A1%9D%20%EB%B0%B0%EC%B9%98)
 
+개요 : [Github](https://github.com/limbsoo/3match_genetic-algorithm_unity)
+
+
+상세 구현 과정 : [Blog](https://limbsoo.github.io/tags/match-3game/)
+
+
+[Paper](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=d8e251ece4ddc0ecffe0bdc3ef48d419&keyword=%EB%B8%94%EB%A1%9D%20%EB%B0%B0%EC%B9%98)
 <br>
 
 
@@ -99,13 +105,17 @@ Link : [Blog](https://limbsoo.github.io/tags/match-3game/),  [Github](https://gi
 - stencil routing을 활용, stencil buffer를 통해 depth peeling layer image rendering
 - Pack, Unpack을 통해 motion blur에 활용하는 rendering image 수 감소
 - intersect 검사 알고리즘을 통해 현재 픽셀을 지나는 motion vector 탐색
+- 제한된 모션 벡터 탐색 범위에서 랜덤 샘플링
 - 픽셀 별 sampling 성공 횟수에 따른 신뢰 정도를 측정, 이를 통한 디노이징
 
 
 <br>
 
-Link : [Blog](https://limbsoo.github.io/tags/motionblur/),  [Github](https://github.com/limbsoo/DirectX11)
 
+개요 : [Github](https://github.com/limbsoo/DirectX11)
+
+
+상세 구현 과정 : [Blog](https://limbsoo.github.io/tags/motionblur/)
 <br>
 
 
@@ -127,8 +137,11 @@ DXUT 라이브러리를 활용, DirectX11 framework와 rendering pipeline을 구
 
 <br>
 
-Link : [Blog](https://limbsoo.github.io/tags/tutorial/),  [Github](https://github.com/limbsoo/DirectX11)
 
+개요 : [Github](https://github.com/limbsoo/DirectX11)
+
+
+상세 구현 과정 : [Blog](https://limbsoo.github.io/tags/tutorial/)
 <br>
 
 
@@ -153,7 +166,11 @@ Texture mapping, Shadow mapping, Environment Mapping 등 다양한 기법들을 
 
 <br>
 
-Link : [Blog](https://limbsoo.github.io/tags/opengl/), [Github](https://github.com/limbsoo/openGL)
 
 <br>
 
+개요 : [Github](https://github.com/limbsoo/openGL)
+
+
+상세 구현 과정 : [Blog](https://limbsoo.github.io/tags/opengl/)
+<br>
